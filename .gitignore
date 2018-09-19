@@ -1,0 +1,4 @@
+PythonREST/venv/**
+REST-tutorial/venv/*
+RestWithPostGres/venv/*
+python_rest/venv/*
